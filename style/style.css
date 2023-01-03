@@ -118,3 +118,40 @@ h2{
     font-size: 16px;
     line-height: 30px;
 }
+.footer{
+    background-color: #282531;
+}
+.last{
+padding-top: 50px;
+}
+.nine{
+    width: 30%;
+}
+.nine p{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+.ten{
+    width: 70%;
+    display: flex;
+    padding-left: 35px;
+    padding-bottom: 100px;
+}
+.zero a{
+    display: flex;
+    color:  #FFFFFF;
+    justify-items: center;
+    padding: 0px 70px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+}
+.copy p{
+    text-align: center;
+    color: #CDCDCD;
+    font-size: 10px;
+    letter-spacing: 2.5px;
+}
