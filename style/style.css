@@ -17,8 +17,7 @@
     border-radius: 33px;
 }
 .b-img{
-    /* width: 650px;
-    height: 400px; */
+    
     width: 100%;
 }
 .half-width{
@@ -44,36 +43,78 @@ span{
     font-size: 16px;
 }
 .learn{
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 50px 0;
 }
-.card{
-    border: none;
+.first-card{
     align-items: center;
+    padding: 20px 0;
     background-color: #F8FFFB;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    border: none;
+    border-radius: 10px;
 }
-h5{
-    font-size: 24px;
+.first-card img{
+    width: 40%;
+}
+.first-pra h5{
     font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960
 }
-.card-pic{
-    width: 80px;
-}
-.card-pic-1{
-    width: 60px;
-   
-}
-
-.card-one{
-    background-color: white;
-    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);;
-}
-.card-body p{
-    color:  #585859;
+.first-pra p{
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
+    color: #585859;
+}
+.card-one{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+h2{
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
     text-align: center;
+    font-weight: 700;
+}
+.card-footer{
+    justify-content: space-between;
+}
+.card-img-top{
+    width: 95%;
+    padding-left: 5%;
+}
+.second-card{
+    padding: 50px 0;
+}
+.h-100{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    border: none;
+    padding: 20px 0;
+}
+.man{
+    width: 120px;
+    height: 120px;
+    
+}
+.test{
+    margin-left: 20%;
+    margin-right: 10%;
+    padding: 50px 0;
+    align-items: center;
+}
+.last-img{
+    width: 30%;
+}
+.last-pra{
+    width: 70%;
+   
+}
+.last-pra p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
 }
