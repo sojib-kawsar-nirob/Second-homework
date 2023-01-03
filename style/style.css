@@ -24,7 +24,7 @@
 .half-width{
     width: 50%;
 }
-h5{
+h6{
     color: #FD511A;
     font-weight: 400;
     letter-spacing: 2px;
@@ -42,4 +42,38 @@ span{
 .nav-p a{
     font-weight: 400;
     font-size: 16px;
+}
+.learn{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.card{
+    border: none;
+    align-items: center;
+    background-color: #F8FFFB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h5{
+    font-size: 24px;
+    font-weight: 500;
+}
+.card-pic{
+    width: 80px;
+}
+.card-pic-1{
+    width: 60px;
+   
+}
+
+.card-one{
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);;
+}
+.card-body p{
+    color:  #585859;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
 }
